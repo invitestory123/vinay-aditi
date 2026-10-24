@@ -53,11 +53,16 @@ Replace files in `editable/assets/` or update paths in `wedding-data.js`:
 - `heroPalace` & `gardenCourtyard`: Venue background artwork
 - `mapPlate`: Illustrated map illustration
 - `sceneDancing`, `sceneWalking`, etc.: Illustrated chapter scenes
+### 8. Background Music
+Edit `music` in `editable/wedding-data.js` or replace `editable/assets/bg-music.mp3`:
+- `src`: Path to background audio file (`./editable/assets/bg-music.mp3`)
+- `autoplay`: Starts upon user interaction (opening seal, tap, etc.)
+- `loop`: `true` to loop continuously
 
 ---
 
 ## Rules for Future Agents
 
-1. Make edits in `editable/wedding-data.js` and swap image files in `editable/assets/`.
+1. Make edits in `editable/wedding-data.js` and swap image/audio files in `editable/assets/`.
 2. Do not modify production files in `assets/` unless structural changes are requested.
 3. Verify syntax with `node --check editable/wedding-data.js`.

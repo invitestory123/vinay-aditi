@@ -1,6 +1,6 @@
 /**
  * wedding-data.js — Customer-facing editable data layer for ever-after-bloom
- * Edit this file to update couple names, wedding date, story, chapters, venue, and images.
+ * Edit this file to update couple names, wedding date, story, chapters, venue, images, and background music.
  */
 
 window.WEDDING_DATA = {
@@ -67,6 +67,11 @@ window.WEDDING_DATA = {
     line1: "Come early. Stay late.",
     line2: "Dance badly with us.",
     signoff: "With all our love, Vinay & Aditi",
+  },
+  music: {
+    src: "./editable/assets/bg-music.mp3",
+    autoplay: true,
+    loop: true,
   },
   images: {
     seal: "./editable/assets/invite-seal.png",
