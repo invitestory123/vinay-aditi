@@ -5,9 +5,9 @@
 
 window.WEDDING_DATA = {
   couple: {
-    bride: "Aditi",
     groom: "Vinay",
-    initials: "A & V",
+    bride: "Aditi",
+    initials: "V & A",
   },
   dateISO: "2026-11-21T19:30:00+05:30",
   dateLabel: "Saturday, 21 November 2026",
@@ -26,15 +26,15 @@ window.WEDDING_DATA = {
   story: {
     title: "The Two of Them",
     subtitle: "A love story in three brushstrokes",
-    bride: {
-      name: "Aditi",
-      role: "The Bride",
-      text: "Grew up chasing monsoon light with a sketchbook under her arm. She still stops mid-sentence for a good sunset, and she laughs before the joke has finished landing.",
-    },
     groom: {
       name: "Vinay",
       role: "The Groom",
       text: "Learned to cook from his grandmother and to be patient from long train rides. He remembers every song he has ever loved, and hums them slightly wrong on purpose.",
+    },
+    bride: {
+      name: "Aditi",
+      role: "The Bride",
+      text: "Grew up chasing monsoon light with a sketchbook under her arm. She still stops mid-sentence for a good sunset, and she laughs before the joke has finished landing.",
     },
   },
   chapters: [
@@ -66,7 +66,7 @@ window.WEDDING_DATA = {
   footer: {
     line1: "Come early. Stay late.",
     line2: "Dance badly with us.",
-    signoff: "With all our love, Aditi & Vinay",
+    signoff: "With all our love, Vinay & Aditi",
   },
   images: {
     seal: "./editable/assets/invite-seal.png",
