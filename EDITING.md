@@ -49,11 +49,9 @@ Edit `footer` in `editable/wedding-data.js`:
 Replace files in `editable/assets/` or update paths in `wedding-data.js`:
 - `seal`: Wax seal artwork (`invite-seal.png`)
 - `openVideo`: Seal opening animation video (`invite-open.mp4`)
-- `portraitBride` & `portraitGroom`: Couple watercolour portraits
 - `heroPalace` & `gardenCourtyard`: Venue background artwork
 - `mapPlate`: Illustrated map illustration
-- `sceneDancing`, `sceneWalking`, etc.: Illustrated chapter scenes & moments
-- `couple1` & `couple2`: High-resolution real photos of the couple (walking & portrait)
+- `sceneWalking` & `sceneBalcony` / `couple1` & `couple2`: Real photos of the couple (walking hand in hand & standing portrait)
 ### 8. Background Music
 Edit `music` in `editable/wedding-data.js` or replace `editable/assets/bg-music.mp3`:
 - `src`: Path to background audio file (`./editable/assets/bg-music.mp3`)
