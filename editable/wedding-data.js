@@ -89,6 +89,8 @@ window.WEDDING_DATA = {
     sceneWalking: "./editable/assets/scene-walking.jpg",
     sceneBalcony: "./editable/assets/scene-balcony.jpg",
     sceneHands: "./editable/assets/scene-hands.jpg",
+    couple1: "./editable/assets/couple1.jpg",
+    couple2: "./editable/assets/couple2.jpg",
     coupleLanterns: "./editable/assets/couple-lanterns.png",
     sunsetSky: "./editable/assets/sunset-sky.jpg",
   },

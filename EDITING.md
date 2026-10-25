@@ -52,7 +52,8 @@ Replace files in `editable/assets/` or update paths in `wedding-data.js`:
 - `portraitBride` & `portraitGroom`: Couple watercolour portraits
 - `heroPalace` & `gardenCourtyard`: Venue background artwork
 - `mapPlate`: Illustrated map illustration
-- `sceneDancing`, `sceneWalking`, etc.: Illustrated chapter scenes
+- `sceneDancing`, `sceneWalking`, etc.: Illustrated chapter scenes & moments
+- `couple1` & `couple2`: High-resolution real photos of the couple (walking & portrait)
 ### 8. Background Music
 Edit `music` in `editable/wedding-data.js` or replace `editable/assets/bg-music.mp3`:
 - `src`: Path to background audio file (`./editable/assets/bg-music.mp3`)
